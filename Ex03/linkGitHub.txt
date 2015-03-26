@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+https://github.com/Akamic/RefactoringExemple
+=======
+https://github.com/Akamic/RefactoringExemple  (el primer que vaig fer)
+https://github.com/Akamic/SandraRefactoring (Actual amb cada exercici)
+>>>>>>> fba614214709ff1b7b2a18b37e27f6c76d8ab89f
