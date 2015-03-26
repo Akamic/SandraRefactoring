@@ -1,4 +1,8 @@
 import static org.junit.Assert.*;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 423be8b35942c02004209449ea984dddddbb9d66
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
