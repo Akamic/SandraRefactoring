@@ -1,0 +1,18 @@
+<!DOCTYPE><meta charset='utf-8'>
+<h1>Informe Lloguers</h1>
+<p>Informe de lloguers del client <em>Sandra</em> (<strong>48484785L</strong>)
+<table border 1px>
+<tr><td><strong>Marca</strong></td>
+<td><strong>Model</strong></td>
+<td><strong>Import</strong></td></tr>     
+<tr><tr><td><strong>ModelLuxe</strong></td>
+<td><strong>MarcaBasic</strong></td><td>2700.0€</td></tr>
+<tr><td><strong>ModelGeneral</strong></td>
+<td><strong>MarcaGeneral</strong></td>
+<td>3600.0€</td></tr>
+<tr><td><strong>ModelLuxe</strong></td>
+<td><strong>MarcaLuxe</strong></td>
+<td>10800.0€</td></tr>
+</table><p>Import a pagar: <em>17100.0€</em></p>
+<p>Punts guanyats: <em>4</em></p>
+
